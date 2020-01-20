@@ -10,6 +10,6 @@
         'auth_signup',
     ],
     'data': ['data/config.xml', 'views/thankyou.xml', 'data/email.xml'],
-    'installable': False,
+    'installable': True,
     'post_init_hook': 'init_auth',
 }
