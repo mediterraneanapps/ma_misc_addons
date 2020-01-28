@@ -4,11 +4,11 @@
     'version': '1.0.0',
     'author': 'Mediterranean Apps',
     'license': 'LGPL-3',
-    "price": 10.00,
+    "price": 3.00,
     "currency": "EUR",
     'depends': [
         'auth_signup_confirmation',
         'crm',
     ],
-    'installable': False,
+    'installable': True,
 }

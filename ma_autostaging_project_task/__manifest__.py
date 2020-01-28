@@ -10,7 +10,7 @@
     "support": "mediterranean.apps@gmail.com",
 
     "license": "LGPL-3",
-    "price": 39.00,
+    "price": 13.00,
     "currency": "EUR",
 
     "depends": [
