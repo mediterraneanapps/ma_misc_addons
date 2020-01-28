@@ -6,5 +6,5 @@
     'category': 'Sales Management',
     'depends': ['delivery'],
     'data': ['views.xml'],
-    'installable': False
+    'installable': True
 }
