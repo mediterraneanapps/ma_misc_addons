@@ -6,5 +6,5 @@
     'category': 'Web',
     'depends': ['web_calendar'],
     'data': ['views.xml'],
-    'installable': Treu,
+    'installable': True,
 }
