@@ -8,5 +8,5 @@
     'currency': 'EUR',
     'depends': [],
     'images': ['images/import.png'],
-    'installable': False
+    'installable': True
 }
