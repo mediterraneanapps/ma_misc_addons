@@ -7,7 +7,7 @@
     "application": False,
 
     "author": "Mediterranean Apps",
-    "license": "AGPL-3",
+    "license": "LGPL-3",
     "price": 10.00,
     "currency": "EUR",
 
