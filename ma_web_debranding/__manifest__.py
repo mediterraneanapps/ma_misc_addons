@@ -10,7 +10,7 @@
     'depends': [
         'web',
         'mail',
-        'access_settings_menu',
+        'ma_access_settings_menu',
     ],
     'data': [
         'data.xml',
