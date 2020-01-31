@@ -7,7 +7,7 @@
     "price": 3.00,
     "currency": "EUR",
     'depends': [
-        'auth_signup_confirmation',
+        'ma_auth_signup_confirmation',
         'crm',
     ],
     'installable': True,
